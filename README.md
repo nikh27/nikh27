@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @nikh27
-- 👀 I’m interested in Nothing
 - 🌱 I’m currently learning Everything
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me idk
