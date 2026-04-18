@@ -1,79 +1,93 @@
+<!-- HEADER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Pandey&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Open%20Source%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50)
+
 <div align="center">
 
-<!-- Capsule Render Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nikhil%20Pandey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Engineer%20%7C%20Python%20%7C%20Django%20%7C%20Cloud&descAlignY=51&descAlign=50)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=650&lines=print(%22Hello+World%2C+I'm+Nikhil+%F0%9F%91%8B%22);Backend+Engineer+crafting+scalable+systems+%F0%9F%9A%80;Django+%7C+FastAPI+%7C+gRPC+%7C+Redis+%7C+AWS;Currently+shipping+%F0%9F%9A%80+ShineTwoplay.online;Ranked+68+out+of+26%2C938+on+Codeforces+%E2%9A%A1;while+True%3A+learn()%2C+build()%2C+repeat())](https://git.io/typing-svg)
 
-<!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Nikhil+%F0%9F%91%8B;Backend+Engineer+%7C+Problem+Solver;Django+%7C+FastAPI+%7C+gRPC+%7C+AWS;Building+scalable+systems+one+line+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br>
 
----
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikh27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilpandey351)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:npqwerty93@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikh27)
-[![Visitors](https://komarev.com/ghpvc/?username=nikh27&label=Profile+Views&color=6E40C9&style=for-the-badge)](https://github.com/nikh27)
+[![ShineTwoplay](https://img.shields.io/badge/🎮_ShineTwoplay-LIVE-brightgreen?style=for-the-badge)](http://shinetwoplay.online/)
+[![Visitors](https://komarev.com/ghpvc/?username=nikh27&label=Profile+Views&color=A855F7&style=for-the-badge)](https://github.com/nikh27)
 
 </div>
 
 ---
 
-<!-- About Me -->
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+## 🖥️ System Boot Sequence...
 
-### 🧑‍💻 About Me
+```bash
+$ whoami
+> Nikhil Pandey — Backend Engineer, India 🇮🇳
 
-```python
-class NikhilPandey:
-    def __init__(self):
-        self.name       = "Nikhil Pandey"
-        self.role       = "Backend Software Engineer"
-        self.location   = "Faridabad, Haryana, India 🇮🇳"
-        self.education  = "B.Sc CS (AI & ML) @ MDU Rohtak"
-        self.languages  = ["Python", "C/C++", "SQL"]
-        self.passion    = "Building scalable & robust systems"
-        self.hobbies    = ["Competitive Coding", "Mentoring", "Open Source"]
+$ cat about.txt
+> Final year CS (AI & ML) student @ MDU Rohtak
+> I talk to databases more than people 🫠
+> 1500+ problems solved — still can't solve life 😂
+> I make servers talk to each other with gRPC & WebSockets
+> Ships real products → shinetwoplay.online is LIVE 🚀
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something great 🚀")
+$ ls -la skills/
+> Python  Django  FastAPI  gRPC  Redis  PostgreSQL  AWS  Docker  WebSockets  Celery
 
-me = NikhilPandey()
-me.say_hi()
+$ git log --oneline
+> a3f91b2  feat: ranked 68/26938 on Codeforces 🔥
+> 7c88d3a  feat: mentored 100+ juniors into backend dev
+> 3e12bc1  feat: built real-time multiplayer game from scratch
+> 9ab22f1  fix: squashed 700+ LeetCode problems
+> 0d8f1aa  chore: still learning, always shipping 🚢
+
+$ echo $MOOD
+> coffee.exe running... ☕ please wait
 ```
-
-- 🔭 Currently building **microservices with gRPC + REST** at **Law Vriksh**
-- 🌱 Exploring **System Design**, **Distributed Systems** & **Cloud Architecture**
-- 🏆 Solved **1500+ problems** on competitive coding platforms
-- 🎯 **Rank 68 / 26,938** in Codeforces Starters | **2nd @ GeekHack**
-- 👨‍🏫 Mentored **100+ junior developers** toward backend engineering
-- 📫 Reach me at **npqwerty93@gmail.com**
 
 ---
 
-<!-- Tech Stack -->
-## 🛠️ Tech Stack & Tools
+## 😂 Real Dev Stats (The Honest Version)
 
 <div align="center">
 
-### 👨‍💻 Languages
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
+| Metric | What I Tell People | Reality |
+|--------|-------------------|---------|
+| ⏰ Time Coding | "8 hours/day" | 14 hours + 3 re-runs of the same bug |
+| 🐛 Bugs Written | "Minimal" | `git blame` says otherwise |
+| ☕ Coffee Consumed | "A cup or two" | `pip install caffeine` |
+| 📚 Docs Read | "Thoroughly" | Ctrl+F and Stack Overflow |
+| 🔁 `git commit -m` messages | "Descriptive" | "fix", "fix2", "PLEASE WORK" |
+| 💤 Sleep | "7-8 hours" | `undefined` |
 
-### 🚀 Frameworks & Libraries
+</div>
+
+---
+
+## 🛠️ My Arsenal
+
+<div align="center">
+
+### The Languages I Actually Use
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://cplusplus.com)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+### Frameworks That Pay My Bills
 [![Django](https://skillicons.dev/icons?i=django)](https://djangoproject.com)
 [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
-[![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)](https://docs.celeryq.dev)
+![DRF](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### 🗄️ Databases & Caching
+### Databases (I love them, they don't love me back)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org)
 
-### ☁️ Cloud, DevOps & Tools
+### Cloud & DevOps (a.k.a "works on my machine" → works everywhere)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org)
@@ -81,147 +95,174 @@ me.say_hi()
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
 
-### 📊 Data Science
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)](https://opencv.org)
+### APIs & Auth (the gatekeepers 🔐)
+![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 </div>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Analytics
+## 🚀 The Project I'm Most Proud Of
 
 <div align="center">
 
-<a href="https://github.com/nikh27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikh27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikh27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=ffffff"/>
-</a>
+> ### 🎮 ShineTwoplay — Real-Time Multiplayer Game Platform
+> **[🌐 shinetwoplay.online](http://shinetwoplay.online/) — LIVE & OPEN SOURCE**
 
 </div>
 
-<div align="center">
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    🎮  SHINETWOPLAY                             │
+│           The multiplayer game platform I actually shipped       │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│   Player 1 ──────┐         ┌────── Player 2                    │
+│                  ▼         ▼                                    │
+│            [ WebSocket Server ]                                  │
+│                  │                                               │
+│           [ Django Channels ]                                    │
+│                  │                                               │
+│      ┌───────────┴───────────┐                                  │
+│      │                       │                                   │
+│   [Redis]              [SQLite DB]                               │
+│   (game sync)          (game state)                              │
+│      │                       │                                   │
+│      └───────────┬───────────┘                                  │
+│                  │                                               │
+│           [ Daphne ASGI ]                                        │
+│                  │                                               │
+│            🌐 LIVE at shinetwoplay.online                       │
+│                                                                  │
+├─────────────────────────────────────────────────────────────────┤
+│  ⚡ Real-time sync via WebSockets    🏠 Room management          │
+│  💬 Multimedia chat + rate limiting  🔴 Live game sessions       │
+│  🐳 Docker ready                     🌍 Open Source             │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nikh27&theme=tokyonight&hide_border=true&background=0D1117&ring=6E40C9&fire=6E40C9&currStreakLabel=6E40C9)](https://git.io/streak-stats)
-
-</div>
+[![Tech](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://djangoproject.com)
+[![Tech](https://img.shields.io/badge/Channels-092E20?style=flat-square&logo=django&logoColor=white)](https://channels.readthedocs.io)
+[![Tech](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://websockets.readthedocs.io)
+[![Tech](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
+[![Tech](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
+[![Live](https://img.shields.io/badge/🔴_LIVE-shinetwoplay.online-brightgreen?style=flat-square)](http://shinetwoplay.online/)
 
 ---
 
-<!-- Trophies -->
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nikh27&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikh27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikh27&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff"/>
 
-</div>
+<br>
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=nikh27&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)](https://git.io/streak-stats)
 
-<!-- Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![ShineTwoplay](https://github-readme-stats.vercel.app/api/pin/?username=nikh27&repo=ShineTwoplay&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff)](https://github.com/nikh27/ShineTwoplay)
-[![HealPat](https://github-readme-stats.vercel.app/api/pin/?username=nikh27&repo=HealPat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=ffffff)](https://github.com/nikh27/HealPat)
-
-</div>
-
-### 🎮 ShineTwoplay — Real-Time 2-Player Game Platform
-> **Tech:** Django • Django Channels • WebSockets • Redis • SQLite • Daphne
-
-- ⚡ Real-time gameplay with **WebSockets & Django Channels**
-- 🏠 Room management and **synchronized game sessions via Redis**
-- 💬 Chat system with **multimedia support & rate limiting**
-
-### 🏥 HealPat — Hospital Management System
-> **Tech:** Django • Channels • Redis • Celery • Google Calendar API • OAuth
-
-- 🔐 **Role-based access control** (admin, doctor, patient)
-- 📅 Appointment booking with **email notifications via Celery**
-- 🔗 **Google & Facebook OAuth** social authentication
-- 💬 **HealChat** — real-time doctor-patient communication
-
-### 🛡️ Anti-Spoofing Facial Attendance System
-> **Tech:** Flask • OpenCV • YOLO Nano • Docker
-
-- 👁️ Real-time **facial recognition with YOLO Nano** spoof detection
-- 🐳 Fully **containerized with Docker**
-
----
-
-<!-- Competitive Programming -->
-## ⚡ Competitive Programming
-
-<div align="center">
-
-| Platform | Stats |
-|----------|-------|
-| 💻 **LeetCode** | 700+ solved • Rating: 1750 |
-| 🟢 **GeeksforGeeks** | 500+ solved • 4⭐ |
-| 🔵 **Codeforces** | Rank 68 / 26,938 in Starters |
-| 🍴 **CodeChef** | 3⭐ |
-| 🟡 **HackerRank** | 5⭐ |
-| 🏆 **Total Problems** | 1500+ across all platforms |
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikh27&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-<!-- Achievements -->
-## 🎖️ Achievements & Recognition
-
-- 🥈 **2nd Place** — GeekHack Hackathon
-- 🏅 **7th Place** — HackUIET
-- 🌟 **Rank 68 / 26,938** — Codeforces Starters
-- 👨‍🏫 **Mentored 100+ juniors** toward backend engineering
-- 🌐 Active member of **GeekHub** & **DNS Community**
-
----
-
-<!-- Activity Graph -->
-## 📈 Contribution Graph
+## ⚡ Competitive Programming — The Grind is Real
 
 <div align="center">
 
-[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikh27&bg_color=0D1117&color=6E40C9&line=6E40C9&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+```
+╔══════════════════════════════════════════════════════╗
+║           NIKHIL'S PROBLEM SOLVING STATS             ║
+╠══════════════════════════════════════════════════════╣
+║  🔥 Total Problems Solved ............. 1500+        ║
+║  💻 LeetCode ................. 700+ | Rating 1750    ║
+║  🟢 GeeksforGeeks ............ 500+ | 4 ⭐           ║
+║  🔵 Codeforces .... Rank 68 out of 26,938 🤯         ║
+║  🍴 CodeChef .......................... 3 ⭐          ║
+║  🟡 HackerRank ........................ 5 ⭐          ║
+╠══════════════════════════════════════════════════════╣
+║  🏆 Hackathons: 2nd @ GeekHack | 7th @ HackUIET     ║
+╚══════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<!-- Snake -->
-## 🐍 Contribution Snake
+## 🤔 Why Work With Me?
+
+```python
+reasons = {
+    "🚀 I ship":         "ShineTwoplay is LIVE. Not a side project graveyard.",
+    "⚡ I'm fast":       "Backend, architecture, deployment — end to end.",
+    "🧠 I solve hard":   "1500+ solved. I debug at 2 AM and enjoy it.",
+    "👨‍🏫 I give back":  "Mentored 100+ juniors into backend engineering.",
+    "🔁 I iterate":      "Rank 68/26938 on Codeforces. Losing = improving.",
+    "☕ I run on":       "Coffee, curiosity, and clean architecture.",
+}
+
+for trait, proof in reasons.items():
+    print(f"{trait}: {proof}")
+```
+
+---
+
+## 💬 Ask Me About
 
 <div align="center">
+
+![Django](https://img.shields.io/badge/Django_internals-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices_design-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/Real--time_systems-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC_architecture-244c5a?style=for-the-badge&logo=google&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis_caching-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA_%26_CP_tips-F7B731?style=for-the-badge&logo=leetcode&logoColor=white)
+
+</div>
+
+---
+
+## 🐍 Watch my contributions get eaten
 
 ![Snake animation](https://raw.githubusercontent.com/nikh27/nikh27/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
-> ⚠️ *To enable the snake animation, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your profile repo.*
+> *Set up the [Platane/snk](https://github.com/Platane/snk) GitHub Action in your profile repo to enable this.*
 
 ---
 
-<!-- Quote -->
+## 🎵 Coding Soundtrack
+
 <div align="center">
 
-[![readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+```
+▶ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3:47
+  Lofi Hip Hop Radio 📻  — "Beats to debug and deploy to"
+  🔀 Shuffle: ON    🔁 Repeat: ALWAYS    🔔 Alerts: only when prod breaks
+```
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com)
 
 </div>
 
 ---
 
-<!-- Footer -->
 <div align="center">
+
+### 🤝 Let's Connect & Build Something Awesome
+
+*"Any fool can write code that a computer can understand.*
+*Good programmers write code that humans can understand."*
+— Martin Fowler
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilpandey351)
+[![ShineTwoplay](https://img.shields.io/badge/Check_out_ShineTwoplay-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://shinetwoplay.online/)
+
+⭐ **If you like what you see — star a repo. It charges my motivation battery.** 🔋
+
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
-
-**⭐ Star my repos if you find them useful! Let's connect and collaborate!**
-
-</div>
