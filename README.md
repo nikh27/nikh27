@@ -26,7 +26,7 @@ $ whoami
 $ cat about.txt
 > Final year CS (AI & ML) student @ MDU Rohtak
 > I talk to databases more than people 🫠
-> 1500+ problems solved — still can't solve life 😂
+> 1500+ problems solved — still cant solve life 😂
 > I make servers talk to each other with gRPC & WebSockets
 > Ships real products → shinetwoplay.online is LIVE 🚀
 
